@@ -1,0 +1,1 @@
+function sayhello61() {alert('Welcome to mypage!');}
